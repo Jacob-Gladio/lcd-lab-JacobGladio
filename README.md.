@@ -1,0 +1,9 @@
+Project Title: lcd-lab-JacobGladio
+
+Description: This is the code for a reaction time game that uses an LCD to display.
+  The display a message to get ready to press the button, press the button, and a 
+  message that tells you your reaction time.
+Hardware: Arduino, LCD, button, wires, breadboard
+
+Jacob Gladio
+Thursday, April 16th, 2026
